@@ -26,7 +26,7 @@ Tyler. I like Video Editing.
   origin/ddowning
   origin/jdawson Hello I'm Jonathan. I like to travel. I would like to go to New Zealand.
   origin/jgeraldizo
-  origin/jgraham
+  origin/jgraham: Hello, I'm Jeff and I like getting things to work, even if it takes an inordinate amount of time!
   origin/jtater
   origin/jwoo
   origin/kclark
