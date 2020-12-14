@@ -1,4 +1,5 @@
 Hello, my name is Richard, and I enjoy model building.
+<<<<<<< HEAD
 Hello, my name is Emma, and I want a cat.
 Hello, my name is Jamie, and I like to paint.
 Hello, my name is Lilith and I like cats :)
@@ -41,3 +42,6 @@ Tyler. I like Video Editing.
   origin/thorn Hi this is Tyler, I like video editing.
   origin/twilliams
   origin/ywang
+=======
+Hello, my name is Robert, and I enjoy hockey.
+>>>>>>> f73096c (adding line to intro.txt)
