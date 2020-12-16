@@ -1,14 +1,12 @@
 [
     {
-        "name": "Richard",
-        "password": "pass",
-        "money": 23,
-        "role": "Customer"
+        "name": "Jeffery",
+        "password": "jeffery",
+        "role": "Employee"
     },
     {
-        "name": "Cassandra",
-        "password": "pass",
-        "money": 87,
-        "role": "Employee"
+        "name": "Jeff",
+        "password": "jeff",
+        "role": "Customer"
     }
 ]
