@@ -1,7 +1,7 @@
 {
-  "name": "vendingmachine",
+  "name": "car-dealership-app",
   "version": "1.0.0",
-  "description": "A Vending Machine Management Application",
+  "description": "A Car Dealership Management Application",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
